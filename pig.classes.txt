@@ -1,0 +1,28 @@
+Class Die:
+    - roll
+    - str format
+
+Class Temporary Score:
+    - reset temp Score
+    - add dice value
+    - str format
+
+Class computer player:
+    - roll untitl twenty
+
+Class Human player:
+    - human decision w/ input
+
+Class Scoreboard:
+    - display score
+    - check score for win
+
+Class Game:
+    - start_game
+    - roll the dice 
+    - play Game
+    - new turn
+   
+
+- assign score
+- choose first player 
